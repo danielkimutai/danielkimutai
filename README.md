@@ -2,5 +2,4 @@
 - 
 - You can reach me @ https://linktr.ee/danielkimutai
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkimutai&hide=contribs,prs)
-- ⚡ Fun fact: ...
--->
+
